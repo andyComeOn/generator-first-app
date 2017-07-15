@@ -1,0 +1,25 @@
+{
+  "name": "generator-first-app",
+  "version": "1.0.0",
+  "description": "andy`s first scaffolding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyComeOn/generator-first-app.git"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andyComeOn/generator-first-app/issues"
+  },
+  "homepage": "https://github.com/andyComeOn/generator-first-app#readme",
+  "dependencies": {
+    "yo": "^2.0.0"
+  }
+}
